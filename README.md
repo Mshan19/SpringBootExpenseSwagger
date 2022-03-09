@@ -9,3 +9,6 @@ This application is a documentation for my expense crud operation
 5) In the service layer, all the business logic performs. It performs the logic on the data that is mapped to JPA with model classes.
 6)A JSP page is returned to the user if no error occurred.
 
+<img width="613" alt="Screenshot 2022-03-09 at 2 11 00 PM" src="https://user-images.githubusercontent.com/62529404/157405421-fcdc1451-b3c3-48a0-9fb7-23a529b28e41.png">
+
+
