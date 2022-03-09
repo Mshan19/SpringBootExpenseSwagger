@@ -11,6 +11,7 @@ Before understanding the Spring Boot Architecture, we must know the different la
 * Persistence Layer
 * Database Layer
 
+<img width="491" alt="Screenshot 2022-03-09 at 2 11 20 PM" src="https://user-images.githubusercontent.com/62529404/157406184-2ea25c9f-aa64-461f-ae7e-0e41899a45ce.png">
 
 ## Spring Boot Flow Architecture
 
