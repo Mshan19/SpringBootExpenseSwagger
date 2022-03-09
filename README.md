@@ -30,5 +30,10 @@ Before understanding the Spring Boot Architecture, we must know the different la
 <img width="613" alt="Screenshot 2022-03-09 at 2 11 00 PM" src="https://user-images.githubusercontent.com/62529404/157405421-fcdc1451-b3c3-48a0-9fb7-23a529b28e41.png">
 
 
-
+# An Open API 3.0 based Documentation Library in Spring Boot
+All the CRUD Request
+<img width="1725" alt="Screenshot 2022-03-09 at 2 23 19 PM" src="https://user-images.githubusercontent.com/62529404/157407375-c3fd6727-2aa7-4346-9c87-3ae165527fa9.png">
+<img width="1724" alt="Screenshot 2022-03-09 at 2 23 49 PM" src="https://user-images.githubusercontent.com/62529404/157407396-ae76ca6f-4f0d-4104-98cb-5785c4e318fc.png">
+<img width="1448" alt="Screenshot 2022-03-09 at 2 24 55 PM" src="https://user-images.githubusercontent.com/62529404/157407406-5bad5c21-b2ec-4925-a124-66630405039d.png">
+<img width="1481" alt="Screenshot 2022-03-09 at 2 25 15 PM" src="https://user-images.githubusercontent.com/62529404/157407437-a55b9336-59e1-42de-b312-74dd1defe4fc.png">
 
