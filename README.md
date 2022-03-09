@@ -1,4 +1,4 @@
-# SpringBootExpenseSwagger
+# Expense Application Using Spring Boot and api documentation with Swagger
 
 This application is a documentation for my expense crud operation
 
